@@ -14,3 +14,4 @@ This is an image searching brower. If you put an image in the searching bar, it 
 
 Allows you to make a dig command but online.
 
+# Maltego
